@@ -1,4 +1,3 @@
-
 public class PruebaVariable {
 
 	public static void main(String[] args) {

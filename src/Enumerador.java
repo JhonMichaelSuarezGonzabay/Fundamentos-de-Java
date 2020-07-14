@@ -1,4 +1,3 @@
-
 enum Transporte {
 	COCHE(60), CAMION(50), AVION(600), TREN(70), BARCO(20);
 

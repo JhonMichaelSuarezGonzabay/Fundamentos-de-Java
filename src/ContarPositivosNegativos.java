@@ -1,4 +1,5 @@
 
+
 public class ContarPositivosNegativos {
 	// Almacenar 10 numeros en un arreglo
 	// Iprmir cuantos son ceros, cuantos son negativos, cuantos positivos
